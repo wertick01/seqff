@@ -7,5 +7,5 @@ Please understand that file paths and some codes were fitted to my environment
 
 ### To run script use:
 ```python
-python3 run.py --input_file /home/mrred/Загрузки/test/SRR5605776.sorted.bam --output_dir /home/mrred/Загрузки/seqff/test3
+python3 run.py --input_file /home/user/input_dir/input_file.bam --output_dir /home/user/output_dir
 ```
